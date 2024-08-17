@@ -14,7 +14,7 @@ A Development setup for MEAN Stack
 4.  Create two sub-dir in the project dir by name: 'api' and 'client'
 5.  Open Integrated Terminal under 'api' and run npm init -y
 6.  Install express nodemon dotenv mongoose, using npm i express nodemon dotent mongoose --save
-7.  Add a line of code "type": "module", anywhere in package.json file, this will let you write the code ESTypeScipt
+7.  Add a line of code "type": "module", anywhere in package.json file, this will let you load ES Module
    allowing to import modules instead of required them.
-8.  Also add "start": "nodemon index.ns" in scrips.
+8.  Also add "start": "nodemon index.ns" in scrips of package.json.
    
