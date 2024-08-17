@@ -16,5 +16,5 @@ A Development setup for MEAN Stack
 6.  Install express nodemon dotenv mongoose, using npm i express nodemon dotent mongoose --save
 7.  Add a line of code "type": "module", anywhere in package.json file, this will let you write the code ESTypeScipt
    allowing to import modules instead of required them.
-8.  Also add "s
+8.  Also add "start": "nodemon index.ns" in scrips.
    
